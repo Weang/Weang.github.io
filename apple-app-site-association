@@ -4,8 +4,5 @@
     },
     "applinks": {
         "apps": ["NL4V5W4F62.com.hxd.iosdemo"]
-        "details":[{
-            "paths":[ "/*" ]
-         }]
     }
 }
