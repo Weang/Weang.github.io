@@ -3,6 +3,12 @@
         "apps": ["NL4V5W4F62.com.hxd.iosdemo"]
     },
     "applinks": {
-        "apps": ["NL4V5W4F62.com.hxd.iosdemo"]
+        "apps": [],
+        "details": [
+            {
+                "appID": "NL4V5W4F62.com.hxd.iosdemo",
+                "paths": [ "*" ]
+            }
+        ]
     }
 }
